@@ -46,5 +46,3 @@ a = tf.Variable(5)
 # Variables in tensorflow point to tensor
 print(a*a)
 print(a.numpy())
-
-

@@ -70,5 +70,3 @@ for i in range(8):
 
 # Eigenvectors time eigenvectors results in orthogonal basis as you get one for first entry and 0 for following
 # Eigenvectordecomposition -> orthonormal vector space -> All eigenvectors form 90 degree angle
-
-

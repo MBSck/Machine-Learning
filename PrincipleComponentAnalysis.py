@@ -88,4 +88,3 @@ plt.show()
 
 # As this does not reference to the labels, it is not connected to the database, but to the most important valeus
 # ---->>> Unsupervised learning
-

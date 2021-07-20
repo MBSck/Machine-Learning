@@ -31,4 +31,3 @@ plt.scatter([0.1], [f(0.1)], color="green")
 plt.axhline(y=0, color="black")
 plt.ylim(-0.5, 1)
 plt.show()
-
